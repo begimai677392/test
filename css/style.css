@@ -1,0 +1,18 @@
+form {
+  width: 300px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid rebeccapurple;
+  display: none;
+}
+form input {
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+img {
+  width: 20px;
+  position: relative;
+  left: 20%;
+  top: 35px;
+}
